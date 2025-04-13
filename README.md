@@ -47,7 +47,7 @@ npm start
 
 Hi, I'm Sahithi Gurram, a passionate full-stack developer with a love for building useful and user-friendly web applications.
 
-📬 Email: sahithigurram10@gmail.com
+📬 Email: pratyusha6212@gmail.com
 🔗 LinkedIn: linkedin.com/in/sahithi-gurram
 📁 GitHub: github.com/SahithiGurram10
 
