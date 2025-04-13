@@ -23,11 +23,7 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) web application that al
 
 ---
 
-## 📷 Screenshot
 
-![Login Form Preview](https://raw.githubusercontent.com/SahithiGurram10/store-review-system/main/screenshots/login-form.png) <!-- Replace with your image link if needed -->
-
----
 
 ## 📁 Project Setup
 
